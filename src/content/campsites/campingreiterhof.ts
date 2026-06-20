@@ -33,7 +33,7 @@ const campingreiterhof: CampsiteConfig = {
     {
       title: "Urlaub bei Freunden",
       text: "Familie Treichl führt den Platz persönlich und mit Herz — viele Gäste kommen seit Jahren immer wieder.",
-      image: { src: `${IMG}/gallery-73bc2bc16c.webp`, alt: "Rezeptionsgebäude mit Blumenschmuck am Camping Reiterhof" },
+      image: { src: `${IMG}/gallery-73bc2bc16c.webp`, alt: "Luftaufnahme von Camping Reiterhof: Stellplätze, Ferienhäuser und Rezeptionsgebäude im Kelchsauer Tal" },
     },
     {
       title: "Freizeitanlage nebenan",
@@ -67,7 +67,7 @@ const campingreiterhof: CampsiteConfig = {
   },
 
   breather: {
-    image: { src: `${IMG}/gallery-aa3875b2d3.webp`, alt: "Abendrot über den Bergen am Camping Reiterhof" },
+    image: { src: `${IMG}/gallery-aa3875b2d3.webp`, alt: "Wohnwagen im Abendlicht auf dem Camping Reiterhof mit rosa Abendhimmel und Bergen im Hintergrund" },
     line: "Wenn die Berge rosa werden, beginnt der schönste Teil des Tages.",
   },
 
@@ -89,7 +89,7 @@ const campingreiterhof: CampsiteConfig = {
       {
         title: "Wohnmobil, Wohnwagen & Zelt",
         text: "Ob großes Reisemobil oder kleines Zelt — bei uns findest du den passenden Platz mit Stromanschluss.",
-        image: { src: `${IMG}/gallery-343ea3c4e7.webp`, alt: "Camper mit Reisemobil und Stühlen auf der Wiese am Reiterhof" },
+        image: { src: `${IMG}/gallery-343ea3c4e7.webp`, alt: "Camper entspannt vor seinem Reisemobil auf dem Stellplatz am Camping Reiterhof" },
       },
       {
         title: "Rezeption & Service",
@@ -166,10 +166,10 @@ const campingreiterhof: CampsiteConfig = {
     tag: "Sommer & Winter",
     moreCount: 20,
     images: [
-      { src: `${IMG}/gallery-831346e911.webp`, alt: "Camping Reiterhof im grünen Tal mit Bergpanorama" },
-      { src: `${IMG}/gallery-f8691f59d9.webp`, alt: "Luftaufnahme der Stellplätze und Chalets am Reiterhof" },
-      { src: `${IMG}/gallery-9c10beaed7.webp`, alt: "Camping Reiterhof am Bergbach im Kelchsauer Tal" },
-      { src: `${IMG}/gallery-e120e3a29c.webp`, alt: "Überblick über die weitläufige Anlage von Camping Reiterhof" },
+      { src: `${IMG}/gallery-831346e911.webp`, alt: "Camping Reiterhof und Salvenaland von oben: Badesee, Pool und Campinganlage im Tal" },
+      { src: `${IMG}/gallery-f8691f59d9.webp`, alt: "Weite Luftaufnahme des Kelchsauer Tals mit Camping Reiterhof und Salvenaland" },
+      { src: `${IMG}/gallery-2832a3ef7d.webp`, alt: "Abendliche Luftaufnahme von Camping Reiterhof mit Kelchsauer Ache und Bergtälblick" },
+      { src: `${IMG}/gallery-70821c1327.webp`, alt: "Drohnenaufnahme von Camping Reiterhof: Stellplätze entlang der Kelchsauer Ache mit Gebirgsblick" },
     ],
   },
 
