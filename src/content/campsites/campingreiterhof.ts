@@ -28,12 +28,12 @@ const campingreiterhof: CampsiteConfig = {
     {
       title: "Mitten in der Bergwelt",
       text: "Ruhig im Kelchsauer Tal gelegen, umgeben von Wäldern und Gipfeln — und doch nur 2 km von Hopfgarten.",
-      image: { src: `${IMG}/hero-3dd2c6ddc8.webp`, alt: "Luftaufnahme von Camping Reiterhof im bewaldeten Kelchsauer Tal" },
+      image: { src: `${IMG}/gallery-18cad1de0b.webp`, alt: "Weite Luftaufnahme des Kelchsauer Tals: Camping Reiterhof eingebettet zwischen den Alpen und Wäldern der Kitzbüheler Alpen" },
     },
     {
       title: "Urlaub bei Freunden",
       text: "Familie Treichl führt den Platz persönlich und mit Herz — viele Gäste kommen seit Jahren immer wieder.",
-      image: { src: `${IMG}/gallery-73bc2bc16c.webp`, alt: "Luftaufnahme von Camping Reiterhof: Stellplätze, Ferienhäuser und Rezeptionsgebäude im Kelchsauer Tal" },
+      image: { src: `${IMG}/gallery-a0aab7f804.webp`, alt: "Luftaufnahme von Camping Reiterhof: Stellplätze und Ferienhäuser im sonnigen Kelchsauer Tal" },
     },
     {
       title: "Freizeitanlage nebenan",
@@ -89,7 +89,7 @@ const campingreiterhof: CampsiteConfig = {
       {
         title: "Wohnmobil, Wohnwagen & Zelt",
         text: "Ob großes Reisemobil oder kleines Zelt — bei uns findest du den passenden Platz mit Stromanschluss.",
-        image: { src: `${IMG}/gallery-343ea3c4e7.webp`, alt: "Camper entspannt vor seinem Reisemobil auf dem Stellplatz am Camping Reiterhof" },
+        image: { src: `${IMG}/gallery-a93ba1ecf0.webp`, alt: "Wohnmobil, Wohnwagen und Zelt auf den sonnigen Wiesenstellplätzen von Camping Reiterhof" },
       },
       {
         title: "Rezeption & Service",
@@ -104,7 +104,7 @@ const campingreiterhof: CampsiteConfig = {
       {
         title: "Gäste aus ganz Europa",
         text: "Am Eingang wehen die Flaggen vieler Nationen — am Reiterhof triffst du Camper aus halb Europa.",
-        image: { src: `${IMG}/gallery-7132ab754e.webp`, alt: "Willkommensschild von Camping Reiterhof mit Nationenflaggen" },
+        image: { src: `${IMG}/gallery-814b3f25dc.webp`, alt: "Sonnige Wiesenstellplätze von Camping Reiterhof mit Kinderspielplatz — ein Treffpunkt für Camper aus ganz Europa" },
       },
     ],
   },
@@ -169,7 +169,7 @@ const campingreiterhof: CampsiteConfig = {
       { src: `${IMG}/gallery-831346e911.webp`, alt: "Camping Reiterhof und Salvenaland von oben: Badesee, Pool und Campinganlage im Tal" },
       { src: `${IMG}/gallery-f8691f59d9.webp`, alt: "Weite Luftaufnahme des Kelchsauer Tals mit Camping Reiterhof und Salvenaland" },
       { src: `${IMG}/gallery-2832a3ef7d.webp`, alt: "Abendliche Luftaufnahme von Camping Reiterhof mit Kelchsauer Ache und Bergtälblick" },
-      { src: `${IMG}/gallery-70821c1327.webp`, alt: "Drohnenaufnahme von Camping Reiterhof: Stellplätze entlang der Kelchsauer Ache mit Gebirgsblick" },
+      { src: `${IMG}/gallery-7440abe83c.webp`, alt: "Blick vom Hügel ins Kelchsauer Tal mit Salvenaland und Camping Reiterhof an einem sonnigen Sommertag" },
     ],
   },
 
