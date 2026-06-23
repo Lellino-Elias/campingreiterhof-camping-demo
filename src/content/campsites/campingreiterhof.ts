@@ -67,7 +67,7 @@ const campingreiterhof: CampsiteConfig = {
   },
 
   breather: {
-    image: { src: `${IMG}/gallery-aa3875b2d3.webp`, alt: "Wohnwagen im Abendlicht auf dem Camping Reiterhof mit rosa Abendhimmel und Bergen im Hintergrund" },
+    image: { src: `${IMG}/gallery-aa3875b2d3.webp`, alt: "Camping Reiterhof im Abendlicht: Campinggebäude vor rosa Abendhimmel und Bergsilhouette" },
     line: "Wenn die Berge rosa werden, beginnt der schönste Teil des Tages.",
   },
 
